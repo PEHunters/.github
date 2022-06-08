@@ -3,7 +3,8 @@
 ### use gpg/pgp message encryption whenever possible
 
 ### For contacts:
-mozmail.com: 10MB max
+msg size: mozmail [dot] com: 10MB max
+###### @freedom1b2830 :
 - chy1ye6mn@mozmail.com
 - freedom1b2830@gmail.com
 
