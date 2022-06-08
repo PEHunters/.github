@@ -1,3 +1,7 @@
+# A project to coordinate the search for pedophiles.
+## For law enforcement use the contacts below.
+### use gpg/pgp message encryption whenever possible
+
 ### For contacts:
 mozmail.com: 10MB max
 - chy1ye6mn@mozmail.com
